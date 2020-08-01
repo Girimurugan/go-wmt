@@ -25,4 +25,5 @@ func main() {
 		s = s + n
 	}
 	fmt.Printf("Total is %d", s)
+	fmt.Println()
 }
